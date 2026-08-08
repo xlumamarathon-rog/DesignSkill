@@ -1,0 +1,30 @@
+DesignSkill
+===========
+
+This repository is a MIRROR of the community project:
+
+    Anthropic Cybersecurity Skills
+    https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+    Author: mukul975 / mahipal (and contributors)
+    License: Apache License 2.0
+
+It is an independent, community-created project and is NOT affiliated with,
+endorsed by, or sponsored by Anthropic PBC. "Anthropic" and "Claude" are
+trademarks of Anthropic PBC.
+
+All 817 cybersecurity skills, the framework mappings, the validation tools, and
+the index in this repository are the work of the upstream authors and remain
+licensed under Apache-2.0 (see LICENSE). This mirror preserves that license and
+attribution unchanged.
+
+Added on top of the mirror
+--------------------------
+The directory `hyperagent-skill/cybersecurity-skills-library/` contains a router
+skill (SKILL.md + helper scripts) that teaches an AI agent how to discover, load,
+and apply skills from this library. It is likewise offered under Apache-2.0.
+
+Authorized use only
+-------------------
+This library includes offensive and dual-use security techniques. Use them only
+for authorized penetration testing, security research, defense, and education,
+with explicit permission from the system owner. Unauthorized use may be illegal.
